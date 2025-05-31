@@ -20,7 +20,7 @@ on:
       DEVICE_TREE:
         description: 'OrangeFox Device Tree'
         required: true
-        default: 'https://github.com/IamAzmathullaShaikh/oneplus_device__holi_CPH2467'
+        default: 'https://github.com/twrpdtgen/android_device_qualcomm_holi/tree/holi-user-12-UKQ1.230924.001-1746869475356-release-keys'
       DEVICE_TREE_BRANCH:
         description: 'OrangeFox Device Tree Branch'
         required: true
