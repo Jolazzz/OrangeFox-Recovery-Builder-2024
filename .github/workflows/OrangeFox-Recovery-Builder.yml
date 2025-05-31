@@ -28,11 +28,11 @@ on:
       DEVICE_PATH:
         description: 'Specify your Device Path'
         required: true
-        default: 'device/qualcomm/holi'
+        default: 'device/oneplus/larry'
       DEVICE_NAME:
         description: 'Specify your Device Codename'
         required: true
-        default: 'holi'
+        default: 'larry'
       RELEASE_TYPE:
         description: 'Release type'
         required: true
