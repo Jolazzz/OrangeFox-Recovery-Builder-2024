@@ -20,7 +20,7 @@ on:
       DEVICE_TREE:
         description: 'OrangeFox Device Tree'
         required: true
-        default: 'https://github.com/Jolazzz/android_device_qualcomm_holi'
+        default: https://github.com/Jolazzz/android_device_qualcomm_holi
       DEVICE_TREE_BRANCH:
         description: 'OrangeFox Device Tree Branch'
         required: true
